@@ -1,0 +1,1 @@
+vcs -sverilog tb.sv CONVEX.v -R -full64 +v2k -debug_access+all +define+FSDB+P1

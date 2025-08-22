@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : CONVEX
+Version: U-2022.12
+Date   : Fri Aug 22 19:54:27 2025
+****************************************
+
+Library(s) Used:
+
+    slow (File: /home/raid7_2/userb11/b11063/CBDK_IC_Contest_v2.5/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                           29
+Number of nets:                          5537
+Number of cells:                         5256
+Number of combinational cells:           4771
+Number of sequential cells:               485
+Number of macros/black boxes:               0
+Number of buf/inv:                        846
+Number of references:                     118
+
+Combinational area:              42832.191641
+Buf/Inv area:                     3805.570751
+Noncombinational area:           12755.961176
+Macro/Black Box area:                0.000000
+Net Interconnect area:          609049.727264
+
+Total cell area:                 55588.152817
+Total area:                     664637.880081
+1

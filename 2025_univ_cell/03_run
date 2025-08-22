@@ -1,0 +1,1 @@
+vcs -R -full64 -sverilog tb.sv CONVEX_syn.v +define+SDF+P1 -v /home/raid7_2/course/cvsd/CBDK_IC_Contest_v2.5/Verilog/tsmc13_neg.v +maxdelays +neg_tchk
